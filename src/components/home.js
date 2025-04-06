@@ -191,7 +191,7 @@ const Home = () => {
                 Organized by
               </p>
               <p className="text-xl md:text-2xl text-blue-300 font-medium px- leading-relaxed">
-            Department of Information Technology   IT Association& IT coding club
+            Department of Information Technology, IT Association & IT coding club
               </p>
             </div>
             
